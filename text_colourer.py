@@ -17,5 +17,3 @@ def colouring(colour,letter):
         case "g":
             x="\033[32m"+letter+"\033[0m"
             return x
-print(colouring("g","h"))
-print("h")

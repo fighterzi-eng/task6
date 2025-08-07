@@ -10,4 +10,4 @@ def game(word,guess):
             ur_answer+=text_colourer.colouring("r",guess[i])
 
     return ur_answer
-print(game("hello","homml"))
+

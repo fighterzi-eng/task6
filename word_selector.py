@@ -15,7 +15,7 @@ for line in f:
 def word_selector():
     x=random.choice(words)
     return x
-print(word_selector())
+
     
 
 
